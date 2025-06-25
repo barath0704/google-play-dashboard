@@ -29,5 +29,9 @@ This project is a Tableau-based interactive dashboard that explores trends in th
 | `dashboard_screenshot.png`   | Preview of the dashboard |
 | `README.md`                  | This project summary file |
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 
 
